@@ -1,0 +1,67 @@
+#Background {width: 100vw;
+position: absolute;
+left: 0;
+    z-index: 1;
+top: -2vw;;}
+
+#Home {z-index: 2;
+position: fixed;
+height: 4.5vw;
+top: 2vw;
+left: 2vw;}
+
+#Footer {z-index: 3;
+position: absolute;
+width: 150vw;
+    left: 0;
+    top: 170vw;
+}
+
+#Twitter {z-index: 10;
+position: absolute;
+height: 3.9vw;
+left: 43vw;
+top: 171.4vw;
+filter: brightness(0.9);
+transition: all 0.5s ease;}
+
+#Twitter:hover {filter: opacity(0.6);
+    -webkit-filter:opacity(0.6);
+)}
+
+
+#Insta {z-index: 10;
+position: absolute;
+height: 3.9vw;
+left: 47.5vw;
+top: 171.4vw;
+filter: brightness(0.9);
+    transition: all 0.5s ease;
+}
+
+#Insta:hover {filter: opacity(0.6);
+    -webkit-filter: opacity(0.6);
+)}
+
+#Dribbble {z-index: 10;
+position: absolute;
+height: 3.9vw;
+    width: 3.9vw;
+left: 52vw;
+top: 171.4vw;
+filter: brightness(0.9);
+transition: all 0.5s ease;
+}
+
+#Dribbble:hover {filter: opacity(0.6);
+    -webkit-filter:opacity(0.6);
+)}
+
+#Title {font-family: Amatic SC, sans-serif;
+z-index: 20;
+    position: absolute;
+left: 48vw;
+top: 14.5vw;
+    font-size: 3.5vw;
+    color: #b06244;
+}
