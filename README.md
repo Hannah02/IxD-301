@@ -11,5 +11,5 @@ Audit and summary of last years portfolio.
 - [Time of day prototype] (https://Hannah02.github.io/IxD-301/Prototype/Index.html)
 A prototype website that changes depending on what time of day it is.
 
-- [Portfolio Version1] (https://Hannah02.github.io/IxD-301/PortfolioWebsite/index.html)
+- [Portfolio Version1] (https://Hannah02.github.io/IxD-301/PortfolioWebsite/Home/index.html)
 First version of my portfolio site, including the home page, the film posters page and the framework of the tshirt design page.
