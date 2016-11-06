@@ -16,3 +16,4 @@ First version of my portfolio site, including the home page, the film posters pa
 
 ###Micropublications
 - [ZAPP!] (https://Hannah02.github.io/IxD-301/Micropublications/zapp!.jpg)
+Zine printing app which was the result of a three day workshop.
