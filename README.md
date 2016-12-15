@@ -14,6 +14,8 @@ A prototype website that changes depending on what time of day it is.
 - [Portfolio Version1] (https://Hannah02.github.io/IxD-301/PortfolioWebsite/index.html)
 First version of my portfolio site, including the home page, the film posters page and the framework of the tshirt design page.
 
+- [Finished Portfolio Site] (https://Hannah02.githum.io/IxD-301/PortfolioWebsite2/index.html)
+
 ###Micropublications
 - [ZAPP!] (https://Hannah02.github.io/IxD-301/Micropublications/zapp!.jpg)
 Zine printing app which was the result of a three day workshop.
