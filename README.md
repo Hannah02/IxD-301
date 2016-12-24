@@ -33,3 +33,10 @@ Zine printing app which was the result of a three day workshop.
 
 - [INcourage] (https://www.dropbox.com/s/0qup4np52dwzsqo/INcourage.m4v?dl=0)
 An app that pairs with AR technology to help with insulin injections for diabetics. This takes into consideration the theme of "Everyday Magic" and aims to both educate and support diabetics.
+
+#Deliverable 5-  Research and Discovery
+
+For this module, I have a sketchbook showing my development for each of these deliverables and a Tumblr blog to hold all my digital work and research, including posts showing my thinking behind specific design choices. My physical sketchbook will be handed in and you can see my research Tumblr below.
+
+- [Research and development Tumblr] (http://hannahsharpblog.tumblr.com/)
+Here is my research blog showing my thoughts and justifying my choices for this module.
