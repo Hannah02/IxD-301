@@ -26,6 +26,10 @@ I chose to create an element pages website aimed at primary school children audi
 - [User persona] (http://hannahsharpblog.tumblr.com/post/153601544271/user-persona)
 A sample of the target audience that would use this website.
 
+- [Style Guide]
+
+- [Finished Site]
+
 #Deliverable 3- Masterclass: Micro-Publications
 
 ###Micropublications
