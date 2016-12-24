@@ -17,5 +17,5 @@ First version of my portfolio site, including the home page, the film posters pa
 - [Finished Portfolio Site] (https://Hannah02.github.io/IxD-301/Portfolio1/index.html)
 
 ###Micropublications
-- [ZAPP!] (https://Hannah02.github.io/IxD-301/Micropublications/zapp!.jpg)
+- [ZAPP!] (https://hannah02.github.io/IxD-301/Portfolio1/ZAPP/index.html)
 Zine printing app which was the result of a three day workshop.
