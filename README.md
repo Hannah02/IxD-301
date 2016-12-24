@@ -15,8 +15,8 @@ A prototype website that changes depending on what time of day it is.
 - [Finished Portfolio Site] (https://Hannah02.github.io/IxD-301/Portfolio1/index.html)
 Portfolio website without Jekyll
 
-- [Jekyll Site] (https://Hannah02.github.io/IxD-301/PortfolioWebsite2/index.html) 
-Working in desktop, not working on github.
+- [Jekyll Site] (https://github.com/Hannah02/jekyll/blob/gh-pages/README.md) 
+Jekyll portfolio website. All elements in the head tag (including fonts) have been put in with Jekyll.
 
 
 #Deliverable 2- Elements Website
