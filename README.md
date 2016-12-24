@@ -31,5 +31,5 @@ Zine printing app which was the result of a three day workshop.
 
 #Deliverable 4- Masterclass: IxD Student Awards
 
-- [INcourage] (https://hannah02.github.io/IxD-301/INcourage2.m4v)
+- [INcourage] (https://www.dropbox.com/s/0qup4np52dwzsqo/INcourage.m4v?dl=0)
 An app that pairs with AR technology to help with insulin injections for diabetics. This takes into consideration the theme of "Everyday Magic" and aims to both educate and support diabetics.
