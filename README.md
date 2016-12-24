@@ -19,6 +19,9 @@ Portfolio website without Jekyll
 
 #Deliverable 2- Elements Website
 
+I chose to create an element pages website aimed at primary school children audience as I felt it would give me more freedom to explore illustration and character design.
+
+-[User persona] (http://hannahsharpblog.tumblr.com/post/153601544271/user-persona)
 
 #Deliverable 3- Masterclass: Micro-Publications
 
