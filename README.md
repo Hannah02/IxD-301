@@ -39,4 +39,4 @@ An app that pairs with AR technology to help with insulin injections for diabeti
 For this module, I have a sketchbook showing my development for each of these deliverables and a Tumblr blog to hold all my digital work and research, including posts showing my thinking behind specific design choices. My physical sketchbook will be handed in and you can see my research Tumblr below.
 
 - [Research and development Tumblr] (http://hannahsharpblog.tumblr.com/)
-Here is my research blog showing my thoughts and justifying my choices for this module.
+Search for the hashtag ixd301 to view all my research work for this module.
