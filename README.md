@@ -21,7 +21,8 @@ Portfolio website without Jekyll
 
 I chose to create an element pages website aimed at primary school children audience as I felt it would give me more freedom to explore illustration and character design.
 
--[User persona] (http://hannahsharpblog.tumblr.com/post/153601544271/user-persona)
+- [User persona] (http://hannahsharpblog.tumblr.com/post/153601544271/user-persona)
+A sample of the target audience that would use this website.
 
 #Deliverable 3- Masterclass: Micro-Publications
 
