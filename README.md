@@ -28,7 +28,8 @@ A sample of the target audience that would use this website.
 
 - [Style Guide]
 
-- [Finished Site]
+- [Finished Elements Site] (https://hannah02.github.io/IxD-301/ElementsSite/index.html)
+
 
 #Deliverable 3- Masterclass: Micro-Publications
 
