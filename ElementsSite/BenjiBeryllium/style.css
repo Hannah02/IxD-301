@@ -1,0 +1,194 @@
+/*Layout*/
+
+html {height: 100vh;
+overflow-x: hidden;
+background-color: aliceblue;}
+
+#PageSecondHalf {height: 100vh;
+background-color: #fff;
+width: 100vw;
+    top: 47vw;
+left: 0;
+position: absolute;}
+
+#HeidiBanner {width: 100vw;
+left: 0;
+    top: 0;
+position: absolute;
+ 
+}
+
+#HeidiBanner2 {width: 90vw;
+left: 0vw;
+    top: 5vw;
+position: absolute;}
+
+#Background2 {width: 100vw;
+    position: absolute;
+    z-index: 20;
+height: 50vw;
+background-color: rebeccapurple;
+left: 0;
+top: 81vw;}
+
+#Footer {width: 100vw;
+    position: absolute;
+height: 5vw;
+top: 129vw;
+left: 0;
+background-color: white;
+z-index: 35;}
+
+/* Fonts */
+
+
+h1 {position: absolute;
+z-index: 15;
+font-family: 'Josefin Sans', sans-serif;}
+
+#Hi {color: #00223C;
+    top: 26vw;
+    left: 15vw;
+font-size: 2vw;}
+
+h2 {position: absolute;
+z-index: 15;
+font-family: 'Atma', cursive;}
+
+#Name {text-align: center;
+left: 15vw;
+top: 24vw;
+font-size: 5vw;
+color: white;}
+
+#Springs {position: absolute;
+z-index: 10;
+    font-family: 'Josefin Sans', sans-serif;
+text-align: center;
+    left: 15vw;
+    top: 67.5vw;
+    font-size: 1.5vw;
+     color: #00223C;
+}
+
+#MedicineText {position: absolute;
+z-index: 10;
+    font-family: 'Josefin Sans', sans-serif;
+text-align: center;
+    left: 40vw;
+    top: 67.5vw;
+    font-size: 1.5vw;
+     color: #00223C;
+}
+
+#BatteryText {position: absolute;
+z-index: 10;
+    font-family: 'Josefin Sans', sans-serif;
+text-align: center;
+    left: 70.5vw;
+    top: 67.5vw;
+    font-size: 1.5vw;
+     color: #00223C;}
+
+#Facts {position: absolute;
+z-index: 10;
+    font-family: 'Josefin Sans', sans-serif;
+text-align: center;
+    left: 41vw;
+    top: 50.5vw;
+    font-size: 3vw;
+     color: rebeccapurple;}
+
+#Info {position: absolute;
+z-index: 30;
+    font-family: 'Atma', sans-serif;
+text-align: center;
+    left: 57.5vw;
+    top: 92vw;
+    font-size: 1.7vw;
+     color: rebeccapurple;
+    width:30vw;
+z-index: 33;}
+
+#FooterText {position: absolute;
+z-index: 35;
+color: rebeccapurple;
+ font-family: 'Josefin Sans', sans-serif;
+top: 129.4vw;
+font-size: 1.5vw;}
+
+#FooterText2 {position: absolute;
+z-index: 35;
+left: 90vw;
+color: rebeccapurple;
+ font-family: 'Josefin Sans', sans-serif;
+top: 129.4vw;
+font-size: 1.5vw;}
+
+
+a {color: #1D1219;
+text-decoration: none;}
+
+/* Images */
+
+#Drop {position: absolute;
+height: 7vw;
+left: 18vw;
+top: 60vw;
+opacity: 0.7;
+filter: brightness(1.1)}
+
+#Drop:hover {filter: contrast(2);}
+
+#Border {width: 100vw;
+position: absolute;
+height: 4vw;
+left: 0;
+top: 0vw;
+background-color: #fff;}
+
+#Home {position: absolute;
+font-size: 3vw;
+    color: rebeccapurple;
+    left: vw;
+    top: 0.5vw;
+    
+z-index: 10;}
+
+#Medicine {position: absolute;
+height: 7vw;
+left: 47vw;
+top: 60vw;
+opacity: 0.5;
+transition: contrast 0.3s ease-in-out;
+opacity: 0.7;
+filter: brightness(1.1)}
+
+#Medicine:hover {filter:  contrast(2) saturate();}
+
+#Battery {position: absolute;
+height: 7vw;
+left: 75vw;
+top: 60vw;
+    transition: contrast 0.3s ease-in-out;
+opacity: 0.7;
+filter: brightness(1.1)}
+
+#Battery:hover {filter: contrast(2);
+
+}
+
+#Libby2 {position: absolute;
+top: 88vw;
+z-index: 31;
+left: 23vw;
+width: 27vw;}
+
+#Speech {
+    position: absolute;
+top: 90vw;
+z-index: 31;
+width: 35vw;
+left: 55vw;}
+
+/* Media Queries */
