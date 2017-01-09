@@ -26,8 +26,6 @@ I chose to create an element pages website aimed at primary school children audi
 - [User persona] (http://hannahsharpblog.tumblr.com/post/153601544271/user-persona)
 A sample of the target audience that would use this website.
 
-- [Style Guide]
-
 - [Finished Elements Site] (https://hannah02.github.io/IxD-301/ElementsSite/index.html)
 
 
