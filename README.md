@@ -1,8 +1,8 @@
 # IxD-301
-##Designing With Content
+## Designing With Content
 
-#Deliverable 1- Portfolio Website
-###Portfolio Website
+# Deliverable 1- Portfolio Website
+### Portfolio Website
 - [Style Tile](https://Hannah02.github.io/IxD-301/StyleTilePortfolio.jpg)
 Getting an idea of what direction I want the site to go in.
 
@@ -19,7 +19,7 @@ Portfolio website without Jekyll
 Jekyll portfolio website. All elements in the head tag (including fonts) have been put in with Jekyll.
 
 
-#Deliverable 2- Elements Website
+# Deliverable 2- Elements Website
 
 I chose to create an element pages website aimed at primary school children audience as I felt it would give me more freedom to explore illustration and character design.
 
@@ -29,18 +29,18 @@ A sample of the target audience that would use this website.
 - [Finished Elements Site] (https://hannah02.github.io/IxD-301/ElementsSite/index.html)
 
 
-#Deliverable 3- Masterclass: Micro-Publications
+# Deliverable 3- Masterclass: Micro-Publications
 
-###Micropublications
+### Micropublications
 - [ZAPP!] (https://hannah02.github.io/IxD-301/Portfolio1/ZAPP/index.html)
 Zine printing app which was the result of a three day workshop.
 
-#Deliverable 4- Masterclass: IxD Student Awards
+# Deliverable 4- Masterclass: IxD Student Awards
 
 - [INcourage] (https://www.dropbox.com/s/0qup4np52dwzsqo/INcourage.m4v?dl=0)
 An app that pairs with AR technology to help with insulin injections for diabetics. This takes into consideration the theme of "Everyday Magic" and aims to both educate and support diabetics.
 
-#Deliverable 5-  Research and Discovery
+# Deliverable 5-  Research and Discovery
 
 For this module, I have a sketchbook showing my development for each of these deliverables and a Tumblr blog to hold all my digital work and research, including posts showing my thinking behind specific design choices. My physical sketchbook will be handed in and you can see my research Tumblr below.
 
